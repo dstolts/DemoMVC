@@ -8,7 +8,7 @@ namespace DemoMVC.Web.Helper
     {
         public static string ApplicationName
         {
-            get { return "Demo MVC App"; }
+            get { return "Dan's Demo MVC App"; }
         }
     }
 }
